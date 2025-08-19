@@ -22,7 +22,7 @@ My work spans **clinical decision support, predictive modeling, health data inte
 ---
 
 ## Featured Projects
-### 🧬 Predicting Immune-Related Adverse Events (irAEs)
+### 🧬 Predicting Immune-Related Adverse Events (irAEs) 
 Developed ML models to predict toxicities in melanoma patients receiving immune checkpoint inhibitor (ICI) therapy.  
 **Tools:** Python (scikit-learn), Pandas, NumPy, Matplotlib  
 - Engineered clinical features, comorbidity indices, and drug categories  
@@ -33,13 +33,6 @@ Built a **SwiftUI iOS rehabilitation tracking app** with AI-based range-of-motio
 **Tools:** Swift, TensorFlow Lite, AWS, FHIR APIs  
 - Integrated secure authentication and HIPAA-compliant backend  
 - Designed AI-driven motion capture for post-operative hand rehab  
-
-### 🔗 Blockchain for Health Data Ownership  
-Explored blockchain-based patient data wallets and NFTs/SBTs for incentivizing chronic disease management.  
-**Tools:** Solidity, Web3 concepts, health informatics frameworks  
-- Designed conceptual models for patient data monetization  
-- Applied semantic bridging to improve interoperability  
-
 ---
 
 ## Technical Skills
