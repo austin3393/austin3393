@@ -35,7 +35,7 @@ Conceptualized a **SwiftUI iOS rehabilitation tracking app** for post-operative 
 - Conducted patient & provider need assessments and created personas  
 - Designed workflows (swimlanes), app architecture, and AWS-based tech stack  
 - Developed HIPAA-compliant security plan and EHR interoperability via FHIR  
-- Ran usability testing, collected feedback, and built implementation roadmap ---
+- Ran usability testing, collected feedback, and built implementation roadmap
 
 ## Technical Skills
 - **Data Science & Analytics:** Python, R, SQL, Pandas, Scikit-learn, TensorFlow  
@@ -48,5 +48,6 @@ Conceptualized a **SwiftUI iOS rehabilitation tracking app** for post-operative 
 
 ## Connect with Me
 - **LinkedIn:** [www.linkedin.com/in/austin-cherian2023](www.linkedin.com/in/austin-cherian2023)  
-- **Portfolio:** [github.com/austin3393](https://github.com/austin3393)  
+- **Portfolio:** [github.com/austin3393](https://github.com/austin3393)
+- **Certifications** [Google Data Analytics Professional Certification](!images/Google_Certificate.jpg)
 - **Email:** austin.cherian17@gmail.com  
