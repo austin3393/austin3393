@@ -50,4 +50,4 @@ Conceptualized a **SwiftUI iOS rehabilitation tracking app** for post-operative 
 ## Connect with Me
 - **LinkedIn:** [linkedin.com/in/austin-cherian](https://linkedin.com/in/austin-cherian)  
 - **Portfolio:** [github.com/austin3393](https://github.com/austin3393)  
-- **Email:** austin.cherian@gmail.com  
+- **Email:** austin.cherian17@gmail.com  
