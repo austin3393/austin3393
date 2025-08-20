@@ -23,11 +23,10 @@ My work spans **clinical decision support, predictive modeling, health data inte
 
 ## Featured Projects
 ### [🧬 Predicting Immune-Related Adverse Events (irAEs)](https://github.com/austin3393/Predicting-Immune-Related-Adverse-Events-irAEs-)
-### [🏥 HandRehab+ Mobile App](https://github.com/austin3393/HandRehab-Mobile-App)
-Built a **SwiftUI iOS rehabilitation tracking app** with AI-based range-of-motion analysis.  
-**Tools:** Swift, TensorFlow Lite, AWS, FHIR APIs  
-- Integrated secure authentication and HIPAA-compliant backend  
-- Designed AI-driven motion capture for post-operative hand rehab  
+Developed ML models to predict toxicities in melanoma patients receiving immune checkpoint inhibitor (ICI) therapy.  
+**Tools:** Python (scikit-learn), Pandas, NumPy, Matplotlib  
+- Engineered clinical features, comorbidity indices, and drug categories  
+- Applied logistic regression and random forest models to structured EHR data  
 
 ### [🏥 HandRehab+ Mobile App](https://github.com/austin3393/HandRehab-Mobile-App)
 Conceptualized a **SwiftUI iOS rehabilitation tracking app** for post-operative hand therapy.  
