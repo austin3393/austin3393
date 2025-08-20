@@ -26,7 +26,14 @@ My work spans **clinical decision support, predictive modeling, health data inte
 Developed ML models to predict toxicities in melanoma patients receiving immune checkpoint inhibitor (ICI) therapy.  
 **Tools:** Python (scikit-learn), Pandas, NumPy, Matplotlib  
 - Engineered clinical features, comorbidity indices, and drug categories  
-- Applied logistic regression and random forest models to structured EHR data  
+- Applied logistic regression and random forest models to structured EHR data
+
+### [🧠 Lumbar Spine MRI Classification](https://github.com/austin3393/Lumbar-Spine-MRI-Classification-Using-Deep-Learning)  
+Built deep learning models to classify severity of lumbar spine degenerative conditions from MRI scans.  
+**Tools:** Python (PyTorch), NumPy, Pandas, Matplotlib  
+- Preprocessed sagittal and axial T2-weighted MRI slices into structured datasets  
+- Developed CNN models for multi-class classification of stenosis severity  
+- Evaluated performance using accuracy, AUROC, and confusion matrices  
 
 ### [🏥 HandRehab+ Mobile App](https://github.com/austin3393/HandRehab-Mobile-App)
 Conceptualized a **SwiftUI iOS rehabilitation tracking app** for post-operative hand therapy.  
