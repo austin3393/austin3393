@@ -22,7 +22,7 @@ My work spans **clinical decision support, predictive modeling, health data inte
 ---
 
 ## Featured Projects
-### 🧬 [Predicting Immune-Related Adverse Events (irAEs)] (https://github.com/austin3393/Predicting-Immune-Related-Adverse-Events-irAEs-)
+### [🧬 Predicting Immune-Related Adverse Events (irAEs)](https://github.com/austin3393/Predicting-Immune-Related-Adverse-Events-irAEs-)
 Developed ML models to predict toxicities in melanoma patients receiving immune checkpoint inhibitor (ICI) therapy.  
 **Tools:** Python (scikit-learn), Pandas, NumPy, Matplotlib  
 - Engineered clinical features, comorbidity indices, and drug categories  
